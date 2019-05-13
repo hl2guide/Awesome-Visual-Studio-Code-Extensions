@@ -1,3 +1,7 @@
+![awesome](https://media0.giphy.com/media/xTiTnBMEz7zAKs57LG/giphy.gif "Awesome! - awesomesam didierfrickin awesome")
+
+_Ref: awesomesam didierfrickin awesome_
+
 # Intro
 
 These are a list of the awesome must-use extensions I use every day :D
