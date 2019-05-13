@@ -3,7 +3,7 @@
 These are a list of the awesome must-use extensions I use every day :D
 Themes are not included in the list.
 
-The easiest way to install them is to use the in-app "extensions" section of Visual Studio Code
+The easiest way to install them is to use the in-app "extensions" section of Visual Studio Code left sidebar
 and search the exact names below (headers).
 
 The links have more details about the extension, including any related keyboard shortcuts.
