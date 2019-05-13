@@ -2,6 +2,8 @@
 
 _Ref: awesomesam didierfrickin awesome_
 
+[Website](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)
+
 # Intro
 
 These are a list of the awesome must-use extensions I use every day :D
