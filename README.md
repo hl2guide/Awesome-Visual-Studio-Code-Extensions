@@ -5,7 +5,7 @@ _Ref: awesomesam didierfrickin awesome_
 # Intro
 
 These are a list of the awesome must-use extensions I use every day :D
-Themes are not included in the list.
+_Themes and icons are not included in the list._
 
 The easiest way to install them is to use the in-app "extensions" section of Visual Studio Code left sidebar
 and search the exact names below (headers).
