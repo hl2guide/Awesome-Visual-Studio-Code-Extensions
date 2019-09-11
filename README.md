@@ -4,6 +4,8 @@ _Ref: awesomesam didierfrickin awesome_
 
 [Website](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)
 
+Last Updated: 12th Sept 2019
+
 # Intro
 
 These are a list of the awesome must-use extensions I use every day :D
@@ -13,6 +15,8 @@ The easiest way to install them is to use the in-app "extensions" section of Vis
 and search the exact names below (headers).
 
 The links have more details about the extension, including any related keyboard shortcuts.
+
+First off, Language Packs: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
 
 ## Auto Close Tag
 
@@ -116,6 +120,18 @@ Adds CSS support for HTML documents.
 
 [Link](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
+## Hungry Delete
+
+Alleviates the issue of pressing backspace multiple times to remove the leading tabs or whitespaces in order to return to the previous end of the line.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=jasonlhy.hungry-delete)
+
+## Hungry-Backspace
+
+Removes pesky whitespaces in one keypress and puts your cursor on the line above.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=eklemen.hungry-backspace)
+
 ## Insert Date String
 
 Inserts the current date and time according to configured format.
@@ -194,6 +210,12 @@ Highlights CSV and TSV files in different colors and allows running SQL-like que
 
 [Link](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 
+## Remove Empty Lines
+
+Removes empty lines in selection or entire document.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=usernamehw.remove-empty-lines)
+
 ## Settings Sync
 
 Synchronizes settings, snippets, themes, file icons, launch keybindings, workspaces, and extensions across multiple machines using Github Gist.
@@ -253,6 +275,11 @@ Shows TODO, FIXME, etc. comment tags in a tree view in the left sidebar (tree wi
 Allow the ability to toggle cycle " -> ' -> `
 
 [Link](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
+
+## Unique Lines
+
+Removes duplicate lines in selection or entire document.
+[Link](https://marketplace.visualstudio.com/items?itemName=bibhasdn.unique-lines)
 
 ## Var Style
 
