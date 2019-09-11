@@ -11,12 +11,17 @@ Last Updated: 12th Sept 2019
 These are a list of the awesome must-use extensions I use every day :D
 _Themes and icons are not included in the list._
 
+Extensions add or change functionality within Visual Studio Code.
+
 The easiest way to install them is to use the in-app "extensions" section of Visual Studio Code left sidebar
 and search the exact names below (headers).
 
-The links have more details about the extension, including any related keyboard shortcuts.
+The links have more details about each extension, including any related keyboard shortcuts.
 
-First off, Language Packs: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
+First off, some Language Packs for non-US coders: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
+
+Next be sure to disble any extensions, themes and icons that you may use in the future and remove extensions you won't use again.\
+This will help keep Visual Studio's fast performance, especially during startup.
 
 ## Auto Close Tag
 
