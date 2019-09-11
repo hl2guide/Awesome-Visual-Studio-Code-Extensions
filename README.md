@@ -22,7 +22,7 @@ First off, some Language Packs for non-US coders: [Link](https://marketplace.vis
 
 Next be sure to disble any extensions, themes and icons that you may use in the future and remove extensions you won't use again.
 
-This will help keep Visual Studio's fast performance, especially during startup.
+This will help keep Visual Studio Code's fast performance, especially during startup.
 
 ## Auto Close Tag
 
