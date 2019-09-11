@@ -20,7 +20,8 @@ The links have more details about each extension, including any related keyboard
 
 First off, some Language Packs for non-US coders: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
 
-Next be sure to disble any extensions, themes and icons that you may use in the future and remove extensions you won't use again.\
+Next be sure to disble any extensions, themes and icons that you may use in the future and remove extensions you won't use again.
+
 This will help keep Visual Studio's fast performance, especially during startup.
 
 ## Auto Close Tag
