@@ -279,6 +279,7 @@ Allow the ability to toggle cycle " -> ' -> `
 ## Unique Lines
 
 Removes duplicate lines in selection or entire document.
+
 [Link](https://marketplace.visualstudio.com/items?itemName=bibhasdn.unique-lines)
 
 ## Var Style
