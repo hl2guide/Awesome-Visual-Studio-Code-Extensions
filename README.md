@@ -298,7 +298,8 @@ Changes variable style to desired format.
 
 ## vscode-workspace-switcher
 
-Adds the ability to easily switch between workspaces.\
+Adds the ability to easily switch between workspaces.
+
 *(Please Note: slows down startup noticeably, skip if you don't need to switch workspaces often)*
 
 [Link](https://marketplace.visualstudio.com/items?itemName=sadesyllas.vscode-workspace-switcher)
