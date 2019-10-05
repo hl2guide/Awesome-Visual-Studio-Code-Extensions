@@ -6,7 +6,7 @@ _Ref: awesomesam didierfrickin awesome_
 
 [Website](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)
 
-Last Updated: 12th Sept 2019
+Last Updated: 5th Oct 2019
 
 # Intro
 
@@ -298,7 +298,8 @@ Changes variable style to desired format.
 
 ## vscode-workspace-switcher
 
-Adds the ability to easily switch between workspaces.
+Adds the ability to easily switch between workspaces.\
+*(Please Note: slows down startup noticeably, skip if you don't need to switch workspaces often)*
 
 [Link](https://marketplace.visualstudio.com/items?itemName=sadesyllas.vscode-workspace-switcher)
 
