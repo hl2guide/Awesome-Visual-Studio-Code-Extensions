@@ -1,3 +1,5 @@
+# Awesome Visual Studio Code Extensions
+
 ![awesome](https://media0.giphy.com/media/xTiTnBMEz7zAKs57LG/giphy.gif "Awesome! - awesomesam didierfrickin awesome")
 
 _Ref: awesomesam didierfrickin awesome_
