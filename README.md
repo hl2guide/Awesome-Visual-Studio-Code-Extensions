@@ -6,7 +6,7 @@ _Ref: awesomesam didierfrickin awesome_
 
 [Website](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)
 
-Last Updated: 5th Oct 2019
+Last Updated: 1st Nov 2019
 
 # Intro
 
@@ -25,6 +25,12 @@ First off, some Language Packs for non-US coders: [Link](https://marketplace.vis
 Next be sure to disble any extensions, themes and icons that you may use in the future and remove extensions you won't use again.
 
 This will help keep Visual Studio Code's fast performance, especially during startup.
+
+## Active File In StatusBar
+
+Adds statusbar entry to show path for currently active file.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=RoscoP.ActiveFileInStatusBar)
 
 ## Auto Close Tag
 
@@ -121,6 +127,12 @@ Duplicates text based on the context.
 Checks for duplicate lines and removes them if you need to keep the unique lines only.
 
 [Link](https://marketplace.visualstudio.com/items?itemName=jianbingfang.dupchecker)
+
+## filesize
+
+Shows the current file size in the status bar.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
 
 ## HTML CSS Support
 
