@@ -24,7 +24,7 @@ Tip: Be sure to disable any extensions, themes and icons that you may use in the
 
 # Language Packs
 
-Offical Language Packs for non-US coders are available: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
+Official Language Packs for non-US coders are available: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
 
 Language Packs allow the Visual Studio interface to show in your preferred language (for popular languages).
 
