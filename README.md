@@ -6,11 +6,11 @@ _Ref: awesomesam didierfrickin awesome_
 
 [Website](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)
 
-Last Updated: 1st Nov 2019
+Last Updated: 15th Nov 2019
 
 # Intro
 
-These are a list of the awesome must-use extensions I use every day :D
+This is a list of the awesome must-use extensions I use every day :D
 _Themes and icons are not included in the list._
 
 Extensions add or change functionality within Visual Studio Code.
@@ -20,11 +20,17 @@ and search the exact names below (headers).
 
 The links have more details about each extension, including any related keyboard shortcuts.
 
-First off, some Language Packs for non-US coders: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
+Tip: Be sure to disable any extensions, themes and icons that you may use in the future and remove extensions you won't use again. This will help keep Visual Studio Code's performance up to scratch, especially during startup.
 
-Next be sure to disble any extensions, themes and icons that you may use in the future and remove extensions you won't use again.
+# Language Packs
 
-This will help keep Visual Studio Code's fast performance, especially during startup.
+Offical Language Packs for non-US coders are available: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
+
+Language Packs allow the Visual Studio interface to show in your preferred language (for popular languages).
+
+I personally use: [English (United Kingdom) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-en-GB)
+
+# Visual Studio Code Extensions
 
 ## Active File In StatusBar
 
