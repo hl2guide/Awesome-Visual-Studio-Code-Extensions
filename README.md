@@ -18,6 +18,8 @@ Extensions add or change functionality within Visual Studio Code and are free fr
 The easiest way to install them is to use the in-app "extensions" section of Visual Studio Code left sidebar
 and search the exact names below (headers).
 
+![searching](https://raw.githubusercontent.com/hl2guide/Awesome-Visual-Studio-Code-Extensions/master/preview2.png "Searching")
+
 The links have more details about each extension, including any related keyboard shortcuts.
 
 Tip: Be sure to disable any extensions, themes and icons that you may use in the future and remove extensions you won't use again. This will help keep Visual Studio Code's performance up to scratch, especially during startup.
@@ -27,6 +29,8 @@ Tip: Be sure to disable any extensions, themes and icons that you may use in the
 Official Language Packs for non-US coders are available: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
 
 Language Packs allow the Visual Studio interface to show in your preferred language (for popular languages).
+
+![language packs](https://raw.githubusercontent.com/hl2guide/Awesome-Visual-Studio-Code-Extensions/master/preview1.png "Language Packs")
 
 I personally use: [English (United Kingdom) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-en-GB)
 
