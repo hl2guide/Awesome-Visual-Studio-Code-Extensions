@@ -13,7 +13,7 @@ Last Updated: 15th Nov 2019
 This is a list of the awesome must-use extensions I use every day :D
 _Themes and icons are not included in the list._
 
-Extensions add or change functionality within Visual Studio Code and are free.
+Extensions add or change functionality within Visual Studio Code and are free from cost.
 
 The easiest way to install them is to use the in-app "extensions" section of Visual Studio Code left sidebar
 and search the exact names below (headers).
