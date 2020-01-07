@@ -24,7 +24,7 @@ The links have more details about each extension, including any related keyboard
 
 Tip: Be sure to disable any extensions, themes and icons that you may use in the future and remove extensions you won't use again. This will help keep Visual Studio Code's performance up to scratch, especially during startup.
 
-# Language Packs
+# Language Packs 🌐
 
 Official Language Packs for non-US coders are available: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
 
