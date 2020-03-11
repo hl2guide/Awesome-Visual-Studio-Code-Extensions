@@ -6,7 +6,7 @@ _Ref: awesomesam didierfrickin awesome_
 
 [Website](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)
 
-Last Updated: 15th Nov 2019
+Last Updated: 11th March 2020
 
 # Intro
 
