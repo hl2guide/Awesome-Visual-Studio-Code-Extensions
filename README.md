@@ -90,11 +90,11 @@ Marks lines and jumps to them by reference.
 
 [Link](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
-## Bracket Pair Colorizer
+## Bracket Pair Colorizer 2
 
 Colorizes matching brackets.
 
-[Link](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+[Link](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 ## Clock in status bar
 
@@ -108,11 +108,11 @@ Quickly closes last opened HTML/XML tag.
 
 [Link](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag)
 
-## Color Highlight
+## Colorize
 
-Highlights web colors in the editor.
+Highlights colours in CSS files.
 
-[Link](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+[Link](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 
 ## Color Info
 
