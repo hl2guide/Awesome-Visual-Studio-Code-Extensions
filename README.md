@@ -102,6 +102,12 @@ Quick selects code between brackets, support for (),{} and [], <>
 
 [Link](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)
 
+## Change String Case
+
+Changes the selected string from one case format to another.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=maximus136.change-string-case)
+
 ## Clock in status bar
 
 Displays clock in status bar.
@@ -113,6 +119,12 @@ Displays clock in status bar.
 Quickly closes last opened HTML/XML tag.
 
 [Link](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag)
+
+## Colonize
+
+Adds semicolon at the end of the line and optionally newline after.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize)
 
 ## Colorize
 
@@ -155,6 +167,12 @@ Shows the current file size in the status bar.
 Adds CSS support for HTML documents.
 
 [Link](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+## Highlight Bad Chars
+
+Highlights bad characters such as No-break space ( ) and the Greek question mark.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars)
 
 ## Hungry Delete
 
