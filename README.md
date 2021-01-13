@@ -270,6 +270,12 @@ Removes empty lines in selection or entire document.
 
 [Link](https://marketplace.visualstudio.com/items?itemName=usernamehw.remove-empty-lines)
 
+## select-quotes
+
+Selects anything within quotes.
+
+[Link](https://marketplace.visualstudio.com/items?itemName=StAlYo.select-quotes)
+
 ## Settings Sync
 
 Synchronizes settings, snippets, themes, file icons, launch keybindings, workspaces, and extensions across multiple machines using Github Gist.
