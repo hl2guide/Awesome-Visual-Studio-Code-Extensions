@@ -96,6 +96,12 @@ Colorizes matching brackets.
 
 [Link](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
+## Bracket Select
+
+Quick selects code between brackets, support for (),{} and [], <>
+
+[Link](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)
+
 ## Clock in status bar
 
 Displays clock in status bar.
