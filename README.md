@@ -2,7 +2,7 @@
 
 [Website](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)
 
-Last Updated: 21st August 2021
+Last Updated: 8th October 2021
 
 # Intro
 
