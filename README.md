@@ -1,8 +1,8 @@
 # Awesome Visual Studio Code Extensions
 
-Version: 1.0.1
+Version: 1.0.2
 
-Last Updated: 2021-11-29 12:02:04PM
+Last Updated: 2022-08-21 05:16:05PM
 
 # Intro
 
@@ -33,7 +33,10 @@ I personally use: [English (United Kingdom) Language Pack for Visual Studio Code
 
 # Recommended Extensions
 
+For improved performance be sure to use [workspaces](https://code.visualstudio.com/docs/editor/workspaces) and disable extensions that don't need to run within the workspace.
+
 _All below links are at the official Marketplace website._
+
 
 | Name | Description |
 | ----------- | ----------- |
@@ -42,11 +45,10 @@ _All below links are at the official Marketplace website._
 | [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Auto renames paired HTML/XML tags. |
 | [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | Improves your code commenting by annotating with alert, informational, TODOs, and more. |
 | [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | Marks lines and jumps to them by reference. |
-| [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | Colorizes matching brackets. |
 | [Bracket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select) | Quick selects code between brackets, support for (),{} and [], <> |
-| [Colonize](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize) | Adds semicolon at the end of the line and optionally newline after. |
 | [DupChecker](https://marketplace.visualstudio.com/items?itemName=jianbingfang.dupchecker) | Checks for duplicate lines and removes them if you need to keep the unique lines only. |
 | [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) | Improves highlighting of errors, warnings and other language diagnostics by showing them inline. |
+| [Filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) | Shows the current file size in the status bar. |
 | [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) | Fluent product icons for Visual Studio Code. |
 | [Highlight Bad Chars](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars) | Highlights bad characters such as No-break space ( ) and the Greek question mark. |
 | [Highlight Line](https://marketplace.visualstudio.com/items?itemName=cliffordfajardo.highlight-line-vscode) | Highlights the current line in the editor. |
@@ -57,18 +59,26 @@ _All below links are at the official Marketplace website._
 | [Remove Empty Lines](https://marketplace.visualstudio.com/items?itemName=usernamehw.remove-empty-lines) | Removes empty lines in selection or entire document. |
 | [Remove Tabs On Save](https://marketplace.visualstudio.com/items?itemName=redlin.remove-tabs-on-save) | Convert all tabs to spaces on save. |
 | [Render Line Endings](https://marketplace.visualstudio.com/items?itemName=medo64.render-crlf) | Displays the line ending symbol and optionally extra whitespace when 'Render whitespace' is turned on. |
+| [Selecta](https://marketplace.visualstudio.com/items?itemName=mrvautin.selecta) | Used for selecting lines that matches a regex. Line starts with, ends with or contains. |
+| [Smoothscroll](https://marketplace.visualstudio.com/items?itemName=cyansprite.smoothscroll) | Enables smooth scrolling with pgup, pgdwn |
 | [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) | Sorts lines of text. |
 | [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker) | Adds the ability to select text in your code and mark all matches. The highlight colour is configurable. |
 | [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools) | Has 140+ commands for text manipulation. Useful ones are padding, prefixing, suffuxing. |
 | [Texty](https://marketplace.visualstudio.com/items?itemName=datasert.vscode-texty) | A set of text utilities. Converting, filtering, sorting, removing, splitting, and joining. |
 | [Whitespace+](https://marketplace.visualstudio.com/items?itemName=davidhouchin.whitespace-plus) | Adds the ability to clearly mark whitespace characters (including trailing) and custom patterns. |
-| [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) | Shows the current file size in the status bar. |
-| [selecta](https://marketplace.visualstudio.com/items?itemName=mrvautin.selecta) | Used for selecting lines that matches a regex. Line starts with, ends with or contains. |
-| [smoothscroll](https://marketplace.visualstudio.com/items?itemName=cyansprite.smoothscroll) | Enables smooth scrolling with pgup, pgdwn |
 
 # Specialized Extensions
 
 | Name | Description |
 | ----------- | ----------- |
+| [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) | Provides AutoHotkey language support. |
+| [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run many forms of code. |
+| [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider) | Divide your code by sections with styled separators. |
+| [Incrementor](https://marketplace.visualstudio.com/items?itemName=nmsmith89.incrementor) | Advanced increment / decrement actions for numbers, enumerators. |
+| [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) | Add shortcuts for Markdown editing. |
 | [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | Adds support to develop PowerShell scripts. |
 | [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) | Highlights CSV and TSV files in different colors and allows running SQL-like queries. |
+| [Read-Only Indicator](https://marketplace.visualstudio.com/items?itemName=alefragnani.read-only-indicator) | Adds a Read-Only/Writeable indication on Status Bar. |
+| [Selected Lines Count](https://marketplace.visualstudio.com/items?itemName=gurumukhi.selected-lines-count) | Shows the number of selected lines in the status bar. |
+| [tl;dr pages](https://marketplace.visualstudio.com/items?itemName=bmuskalla.vscode-tldr) | Hover for commands using simplified and community-driven man pages. |
+| [Workspace Name in Status Bar](https://marketplace.visualstudio.com/items?itemName=koalamer.workspace-in-status-bar) | Displays the workspace name in the statusbar. |
