@@ -1,8 +1,8 @@
 # Awesome Visual Studio Code Extensions
 
-Version: 1.0.2
+Version: 1.0.3
 
-Last Updated: 2022-08-21 05:16:05PM
+Last Updated: 2023-06-04 02:52:47PM
 
 # Intro
 
@@ -77,8 +77,10 @@ _All below links are at the official Marketplace website._
 | [Incrementor](https://marketplace.visualstudio.com/items?itemName=nmsmith89.incrementor) | Advanced increment / decrement actions for numbers, enumerators. |
 | [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) | Add shortcuts for Markdown editing. |
 | [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | Adds support to develop PowerShell scripts. |
+| [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | Provides Python language support. |
 | [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) | Highlights CSV and TSV files in different colors and allows running SQL-like queries. |
 | [Read-Only Indicator](https://marketplace.visualstudio.com/items?itemName=alefragnani.read-only-indicator) | Adds a Read-Only/Writeable indication on Status Bar. |
 | [Selected Lines Count](https://marketplace.visualstudio.com/items?itemName=gurumukhi.selected-lines-count) | Shows the number of selected lines in the status bar. |
-| [tl;dr pages](https://marketplace.visualstudio.com/items?itemName=bmuskalla.vscode-tldr) | Hover for commands using simplified and community-driven man pages. |
+| [Shader languages support for VS Code](https://marketplace.visualstudio.com/items?itemName=slevesque.shader) | Syntax highlighter for shader language (hlsl, glsl, cg). |
 | [Workspace Name in Status Bar](https://marketplace.visualstudio.com/items?itemName=koalamer.workspace-in-status-bar) | Displays the workspace name in the statusbar. |
+| [tl;dr pages](https://marketplace.visualstudio.com/items?itemName=bmuskalla.vscode-tldr) | Hover for commands using simplified and community-driven man pages. |
