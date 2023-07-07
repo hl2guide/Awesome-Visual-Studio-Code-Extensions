@@ -66,6 +66,7 @@ _All below links are at the official Marketplace website._
 | [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools) | Has 140+ commands for text manipulation. Useful ones are padding, prefixing, suffuxing. |
 | [Texty](https://marketplace.visualstudio.com/items?itemName=datasert.vscode-texty) | A set of text utilities. Converting, filtering, sorting, removing, splitting, and joining. |
 | [Whitespace+](https://marketplace.visualstudio.com/items?itemName=davidhouchin.whitespace-plus) | Adds the ability to clearly mark whitespace characters (including trailing) and custom patterns. |
+| [GitoCommito](https://marketplace.visualstudio.com/items?itemName=mvalente.gitocommito) | Adds the ability to generate Commit Messaged based on staged changes. |
 
 # Specialized Extensions
 
