@@ -1,13 +1,16 @@
 # Awesome Visual Studio Code Extensions
 
-Version: 1.0.3
+Version: 1.0.4
 
-Last Updated: 2023-06-04 02:52:47PM
+Last Updated: 2023-08-03 04:55:51PM
 
 # Intro
 
 This is a curated list of the awesome must-use extensions I use every day :D
-_Themes and icons are not included in the list._
+
+* _All extension links are to the official Microsoft Visual Studio Code Marketplace_
+* _Themes and icons are not included in the list_
+* _I consider the _activation time_, filesize and usefulness all into account when considering adding new extensions_
 
 Extensions add or change functionality within Visual Studio Code and are free from cost.
 
