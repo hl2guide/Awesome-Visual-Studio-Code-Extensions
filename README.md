@@ -52,7 +52,6 @@ _All below links are at the official Marketplace website._
 | [DupChecker](https://marketplace.visualstudio.com/items?itemName=jianbingfang.dupchecker) | Checks for duplicate lines and removes them if you need to keep the unique lines only. |
 | [Duplicate selection or line](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate) | Duplicate functionality like you are used to. |
 | [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) | Improves highlighting of errors, warnings and other language diagnostics by showing them inline. |
-| [Filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) | Show the current file size in the status bar. |
 | [Filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) | Shows the current file size in the status bar. |
 | [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) | Fluent product icons for Visual Studio Code. |
 | [Hide Comments](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hide-comments) | Hide/show comments in the code. |
