@@ -1,8 +1,8 @@
 # Awesome Visual Studio Code Extensions
 
-Version: 1.0.4
+Version: 1.0.5
 
-Last Updated: 2023-08-03 04:55:51PM
+Last Updated: 2023-09-16 10:05:00AM
 
 # Intro
 
