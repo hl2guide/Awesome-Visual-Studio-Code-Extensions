@@ -32,8 +32,6 @@ Language Packs allow the Visual Studio interface to show in your preferred langu
 
 ![language packs](https://raw.githubusercontent.com/hl2guide/Awesome-Visual-Studio-Code-Extensions/master/preview1.png "Language Packs")
 
-I personally use: [English (United Kingdom) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-en-GB)
-
 # Recommended Extensions
 
 For improved performance be sure to use [workspaces](https://code.visualstudio.com/docs/editor/workspaces) and disable extensions that don't need to run within the workspace.
