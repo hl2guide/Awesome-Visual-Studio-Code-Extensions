@@ -2,7 +2,7 @@
 
 Version: 1.0.5
 
-Last Updated: 2023-09-16 10:05:00AM
+Last Updated: 2023-09-16 11:06:50AM
 
 # Intro
 
@@ -50,20 +50,35 @@ _All below links are at the official Marketplace website._
 | [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | Marks lines and jumps to them by reference. |
 | [Bracket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select) | Quick selects code between brackets, support for (),{} and [], <> |
 | [DupChecker](https://marketplace.visualstudio.com/items?itemName=jianbingfang.dupchecker) | Checks for duplicate lines and removes them if you need to keep the unique lines only. |
+| [Duplicate selection or line](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate) | Duplicate functionality like you are used to. |
 | [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) | Improves highlighting of errors, warnings and other language diagnostics by showing them inline. |
+| [Filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) | Show the current file size in the status bar. |
 | [Filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) | Shows the current file size in the status bar. |
 | [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons) | Fluent product icons for Visual Studio Code. |
+| [Hide Comments](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hide-comments) | Hide/show comments in the code. |
 | [Highlight Bad Chars](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars) | Highlights bad characters such as No-break space ( ) and the Greek question mark. |
 | [Highlight Line](https://marketplace.visualstudio.com/items?itemName=cliffordfajardo.highlight-line-vscode) | Highlights the current line in the editor. |
+| [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) | Highlights matching closing and opening tags. |
 | [Hungry Delete](https://marketplace.visualstudio.com/items?itemName=jasonlhy.hungry-delete) | Alleviates the issue of pressing backspace multiple times to remove the leading tabs or whitespaces in order to return to the previous end of the line. |
 | [Hungry-Backspace](https://marketplace.visualstudio.com/items?itemName=eklemen.hungry-backspace) | Removes pesky whitespaces in one keypress and puts your cursor on the line above. |
+| [Indent line](https://marketplace.visualstudio.com/items?itemName=sandipchitale.vscode-indent-line) | Indents line(s) to correct level. |
+| [Indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Makes indentation easier to read. |
 | [Insert Date String](https://marketplace.visualstudio.com/items?itemName=jsynowiec.vscode-insertdatestring) | Inserts the current date and time according to configured format. |
+| [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter) | Adds color highlighting to log files. |
+| [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) | Adds checkbox support to the built-in markdown preview. |
+| [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) | Syntax highlighting for log files. |
+| [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent) | Paste some code with "correct" indentation. |
 | [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | Autocompletes filenames. |
+| [Permute Lines](https://marketplace.visualstudio.com/items?itemName=earshinov.permute-lines) | Reverse, Unique, Shuffle lines as in Sublime Text. |
+| [Read-Only Indicator](https://marketplace.visualstudio.com/items?itemName=alefragnani.read-only-indicator) | Read-Only/Writeable indication on Status Bar. |
 | [Remove Empty Lines](https://marketplace.visualstudio.com/items?itemName=usernamehw.remove-empty-lines) | Removes empty lines in selection or entire document. |
 | [Remove Tabs On Save](https://marketplace.visualstudio.com/items?itemName=redlin.remove-tabs-on-save) | Convert all tabs to spaces on save. |
 | [Render Line Endings](https://marketplace.visualstudio.com/items?itemName=medo64.render-crlf) | Displays the line ending symbol and optionally extra whitespace when 'Render whitespace' is turned on. |
+| [Select-quotes](https://marketplace.visualstudio.com/items?itemName=StAlYo.select-quotes) | Select anything within quotes. |
 | [Selecta](https://marketplace.visualstudio.com/items?itemName=mrvautin.selecta) | Used for selecting lines that matches a regex. Line starts with, ends with or contains. |
+| [Selected Lines Count](https://marketplace.visualstudio.com/items?itemName=gurumukhi.selected-lines-count) | Shows the number of selected lines in the status bar. |
 | [Smoothscroll](https://marketplace.visualstudio.com/items?itemName=cyansprite.smoothscroll) | Enables smooth scrolling with pgup, pgdwn |
+| [Sort Lines by Selection](https://marketplace.visualstudio.com/items?itemName=earshinov.sort-lines-by-selection) | Sort lines based on the text selected in each line. |
 | [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) | Sorts lines of text. |
 | [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker) | Adds the ability to select text in your code and mark all matches. The highlight colour is configurable. |
 | [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools) | Has 140+ commands for text manipulation. Useful ones are padding, prefixing, suffuxing. |
