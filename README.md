@@ -1,8 +1,8 @@
 # Awesome Visual Studio Code Extensions
 
-Version: 1.0.5
-Extension Pack: [View](https://marketplace.visualstudio.com/items?itemName=hl2guide.awesome-pack)
-Last Updated: 2023-09-16 11:06:50AM
+* Version: 1.0.5
+* Extension Pack: [View](https://marketplace.visualstudio.com/items?itemName=hl2guide.awesome-pack)
+* Last Updated: 2023-09-16 11:06:50AM
 
 # Intro
 
