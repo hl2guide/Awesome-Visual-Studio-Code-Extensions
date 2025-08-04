@@ -1,10 +1,10 @@
 # Awesome Visual Studio Code Extensions
 
-* Version: 1.0.5
+* Version: 1.0.6
 * Extension Pack: [View](https://marketplace.visualstudio.com/items?itemName=hl2guide.awesome-pack)
-* Last Updated: 2023-09-16 11:06:50AM
+* Last Updated: 2025-08-05 06:31:37 +1000
 
-# Intro
+## Intro
 
 This is a curated list of the awesome must-use extensions I use every day :D
 
@@ -24,7 +24,11 @@ The links have more details about each extension, including any related keyboard
 Tip: Be sure to disable any extensions, themes and icons that you may use in the future and remove extensions you won't use again.
 This will help keep Visual Studio Code's performance up to scratch, especially during startup.
 
-# Language Packs 🌐
+## Repo Changes
+
+- 2025-08-05 06:30:53 +1000 : Added new extensions for August 2025
+
+## Language Packs 🌐
 
 Official Language Packs for non-US coders are available: [Link](https://marketplace.visualstudio.com/search?term=Microsoft&target=VSCode&category=Language%20Packs&sortBy=Name)
 
@@ -32,7 +36,7 @@ Language Packs allow the Visual Studio interface to show in your preferred langu
 
 ![language packs](https://raw.githubusercontent.com/hl2guide/Awesome-Visual-Studio-Code-Extensions/master/preview1.png "Language Packs")
 
-# Recommended Extensions
+## Recommended Extensions
 
 For improved performance be sure to use [workspaces](https://code.visualstudio.com/docs/editor/workspaces) and disable extensions that don't need to run within the workspace.
 
@@ -45,8 +49,11 @@ _All below links are at the official Marketplace website._
 | [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) | Automatically adds HTML/XML close tag, same as Visual Studio IDE or Sublime Text. |
 | [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Auto renames paired HTML/XML tags. |
 | [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | Improves your code commenting by annotating with alert, informational, TODOs, and more. |
+| [Block Sort](https://marketplace.visualstudio.com/items?itemName=1nVitr0.blocksort) | Sort Blocks instead of lines. |
 | [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | Marks lines and jumps to them by reference. |
 | [Bracket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select) | Quick selects code between brackets, support for (),{} and [], <> |
+| [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) | Highlight web colors in your editor. |
+| [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider) | Divide your code by sections with styled separators. |
 | [DupChecker](https://marketplace.visualstudio.com/items?itemName=jianbingfang.dupchecker) | Checks for duplicate lines and removes them if you need to keep the unique lines only. |
 | [Duplicate selection or line](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate) | Duplicate functionality like you are used to. |
 | [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) | Improves highlighting of errors, warnings and other language diagnostics by showing them inline. |
@@ -56,6 +63,7 @@ _All below links are at the official Marketplace website._
 | [Highlight Bad Chars](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars) | Highlights bad characters such as No-break space ( ) and the Greek question mark. |
 | [Highlight Line](https://marketplace.visualstudio.com/items?itemName=cliffordfajardo.highlight-line-vscode) | Highlights the current line in the editor. |
 | [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) | Highlights matching closing and opening tags. |
+| [Highlight on Copy](https://marketplace.visualstudio.com/items?itemName=mguellsegarra.highlight-on-copy) | Briefly flash and highlight selected copied text. |
 | [Hungry Delete](https://marketplace.visualstudio.com/items?itemName=jasonlhy.hungry-delete) | Alleviates the issue of pressing backspace multiple times to remove the leading tabs or whitespaces in order to return to the previous end of the line. |
 | [Hungry-Backspace](https://marketplace.visualstudio.com/items?itemName=eklemen.hungry-backspace) | Removes pesky whitespaces in one keypress and puts your cursor on the line above. |
 | [Indent line](https://marketplace.visualstudio.com/items?itemName=sandipchitale.vscode-indent-line) | Indents line(s) to correct level. |
@@ -71,6 +79,7 @@ _All below links are at the official Marketplace website._
 | [Remove Empty Lines](https://marketplace.visualstudio.com/items?itemName=usernamehw.remove-empty-lines) | Removes empty lines in selection or entire document. |
 | [Remove Tabs On Save](https://marketplace.visualstudio.com/items?itemName=redlin.remove-tabs-on-save) | Convert all tabs to spaces on save. |
 | [Render Line Endings](https://marketplace.visualstudio.com/items?itemName=medo64.render-crlf) | Displays the line ending symbol and optionally extra whitespace when 'Render whitespace' is turned on. |
+| [Scoped Sort](https://marketplace.visualstudio.com/items?itemName=karizma.scoped-sort) | Smartly sorts text, lists, code blocks, imports, arrays, and more; all while respecting indentation and structure. |
 | [Select-quotes](https://marketplace.visualstudio.com/items?itemName=StAlYo.select-quotes) | Select anything within quotes. |
 | [Selecta](https://marketplace.visualstudio.com/items?itemName=mrvautin.selecta) | Used for selecting lines that matches a regex. Line starts with, ends with or contains. |
 | [Selected Lines Count](https://marketplace.visualstudio.com/items?itemName=gurumukhi.selected-lines-count) | Shows the number of selected lines in the status bar. |
@@ -81,11 +90,17 @@ _All below links are at the official Marketplace website._
 | [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools) | Has 140+ commands for text manipulation. Useful ones are padding, prefixing, suffuxing. |
 | [Texty](https://marketplace.visualstudio.com/items?itemName=datasert.vscode-texty) | A set of text utilities. Converting, filtering, sorting, removing, splitting, and joining. |
 | [Whitespace+](https://marketplace.visualstudio.com/items?itemName=davidhouchin.whitespace-plus) | Adds the ability to clearly mark whitespace characters (including trailing) and custom patterns. |
+| [Workspace Sidebar](https://marketplace.visualstudio.com/items?itemName=sketchbuch.vsc-workspace-sidebar) | An extension for VSCode to switch Workspaces with ease. |
+| [grepc: Regex Highlighting](https://marketplace.visualstudio.com/items?itemName=stneveadomi.grepc) | An approachable regular expression highlighter with advanced customization for VS Code. |
+| [vscode-minify](https://marketplace.visualstudio.com/items?itemName=PedroAlves1122.vscode-minify) | Minify CSS and Javascript files. |
 
-# Specialized Extensions
+## Specialized Extensions
+
+Extensions that are specialized and may have more involved functionality and implications.
 
 | Name | Description |
 | ----------- | ----------- |
+| [Auto-Minify](https://marketplace.visualstudio.com/items?itemName=CaffeineOnIce.autominify) | Automatically minify your HTML, CSS, and JS files on save. |
 | [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) | Provides AutoHotkey language support. |
 | [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run many forms of code. |
 | [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider) | Divide your code by sections with styled separators. |
